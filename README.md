@@ -1,1 +1,1 @@
-non empty read me file
+non empty read me file with message
