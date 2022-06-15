@@ -1,1 +1,3 @@
-This is my first read me file
+this is an empty read me file
+git status
+
